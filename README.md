@@ -4,6 +4,8 @@
 
 This is a demo on how you can use an infrastructure as code tool (like Terraform) to build, change, and manage your infrastructure in Huawei Cloud in a safe, consistent, and repeatable way by defining resource configurations that you can version, reuse, and share. In this case, we will create a CCE cluster on Huawei Cloud using Terraform. 
 
+In this demo, we will create a VPC with a Subnet and a Kubernetes cluster (CCE service) with 3 master nodes and 2 worker nodes. 
+
 ## Requirements
 
 Terraform CLI
