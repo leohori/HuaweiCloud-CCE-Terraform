@@ -13,9 +13,10 @@ Terraform CLI
 ## Preparation
 
 Set the following variables in the variables.tf file.
-
+```
 access_key : Access Key of your Huawei Cloud account
 secret_key : Secret Key of your Huawei Cloud account
+```
 
 ## Execution
 
