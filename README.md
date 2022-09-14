@@ -10,6 +10,13 @@ In this demo, we will create a VPC with a Subnet and a Kubernetes cluster (CCE s
 
 Terraform CLI
 
+## Preparation
+
+Set the following variables in the variables.tf file.
+
+access_key : Access Key of your Huawei Cloud account
+secret_key : Secret Key of your Huawei Cloud account
+
 ## Execution
 
 Note: Successfully tested on Ubuntu 18.04 with Terraform 1.2.9
